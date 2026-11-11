@@ -3,7 +3,7 @@
 Indie hacker from Beijing, building small, high-utility SaaS tools for a global audience.
 
 - 🛠 Solo developer: I design, build, ship and support every product myself
-- 💻 Background: backend engineer (Java, Netty, Disruptor), now full-stack TypeScript
+- 💻 Background: backend engineer (Java, Python, PHP, Lua), now full-stack TypeScript
 - 🚀 Shipping in public on [X @sosojustdo](https://x.com/sosojustdo)
 
 #### 🧰 Products I run
