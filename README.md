@@ -18,4 +18,3 @@ Indie hacker from Beijing, building small, high-utility SaaS tools for a global 
 #### 📫 Contact
 
 - X: [@sosojustdo](https://x.com/sosojustdo)
-- Product support: support@airap.me
