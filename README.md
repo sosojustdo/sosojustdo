@@ -10,10 +10,10 @@ Indie hacker from Beijing, building small, high-utility SaaS tools for a global 
 
 | Product | What it does |
 | --- | --- |
-| 🎤 [AiRap.me](https://airap.me) | Turn one photo into an AI rap video |
-| 📝 [MarkdownToWord.pro](https://markdowntoword.pro) | Convert Markdown to a clean Word document |
-| 📸 [HEICtoPNG.org](https://heictopng.org) | Convert iPhone HEIC photos to PNG/JPG in the browser |
-| 🎨 [Z-Image-AI.run](https://z-image-ai.run) | AI image generator |
+| 🎤 [AiRap.me](https://airap.me) | AI rap generator: upload one photo of a person, pet or cartoon character and get a lip-synced rap video with an original beat and verse. Also has free rap name and lyrics generators. |
+| 📝 [MarkdownToWord.pro](https://markdowntoword.pro) | Free online Markdown to Word (.docx) converter with full GFM support. Keeps tables, LaTeX math, Mermaid diagrams, images and code blocks intact. |
+| 📸 [HEICtoPNG.org](https://heictopng.org) | Convert iPhone HEIC photos to PNG, single or in bulk. Runs entirely in your browser: no uploads, no sign-up, full privacy. |
+| 🎨 [Z-Image-AI.run](https://z-image-ai.run) | AI image generator with text-to-image and image-to-image in one place, powered by top models such as Z-Image Turbo, GPT Image, Nano Banana and Seedream. |
 
 #### 📫 Contact
 
